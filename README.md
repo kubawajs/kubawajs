@@ -3,7 +3,7 @@
 [![Twitter: wajs_kuba](https://img.shields.io/twitter/follow/wajs_kuba?style=social)](https://twitter.com/wajs_kuba)
 [![Linkedin: Jakub Wajs](https://img.shields.io/badge/-jakubwajs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakub-wajs/)](https://www.linkedin.com/in/jakub-wajs/)
 
-### ⭐ Software Engineer ⭐ Sitecore Developer ⭐
+### ⭐ Software Engineer ⭐ Kentico Developer ⭐ Sitecore Developer ⭐
 
 ![](https://img.shields.io/badge/technology-.NET-5C2D91?style=for-the-badge&logo=.net)
 ![](https://img.shields.io/badge/azure-cloud-0089D6?style=for-the-badge&logo=microsoft-azure)
