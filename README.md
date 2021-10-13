@@ -10,7 +10,7 @@
 
 ## Currently working on
 
-Programming blog - [jwajs.net](https://jwajs.net)
+Programming blog - [jwajs.net](https://jakubwajs.wordpress.com/)
 
 ## My Github Stats
 
