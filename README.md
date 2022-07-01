@@ -19,9 +19,9 @@ Programming blog - [jwajs.net](https://jakubwajs.wordpress.com/)
 
 ## Certificates
 
-Microsoft Certified Solutions Developer            |  Microsoft Certified Solutions Associate
-:-------------------------:|:-------------------------:
-<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/340x340/images/33afb7c7-f2b9-401a-b81c-9ca736f4cd68/MCSD-App-Builder-2019.png" alt="MCSD: App Builder — Certified 2019" width="150" height="150">  |  <img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/340x340/images/083da79c-cc92-4709-b8dc-aa50583a355c/MCSA-Web-Applications-2019.png" alt="MCSA: Web Applications - Certified 2019" width="150" height="150">
+Microsoft Certified: Azure Developer Associate            | Microsoft Certified Solutions Developer            |  Microsoft Certified Solutions Associate
+:-------------------------:|:-------------------------:|:-------------------------:
+<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="Microsoft Certified: Azure Developer Associate" width="150" height="150"> | <img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/340x340/images/33afb7c7-f2b9-401a-b81c-9ca736f4cd68/MCSD-App-Builder-2019.png" alt="MCSD: App Builder — Certified 2019" width="150" height="150">  |  <img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/340x340/images/083da79c-cc92-4709-b8dc-aa50583a355c/MCSA-Web-Applications-2019.png" alt="MCSA: Web Applications - Certified 2019" width="150" height="150">
 
 ## Contact
 
