@@ -10,8 +10,8 @@
 
 ## Currently working on
 
-Programming blog - [wajs-dev.net](https://www.wajs-dev.net/blog/)
-ZnajdzZlobek.pl - [znajdzzlobek.pl](https://znajdzzlobek.pl)
+* Programming blog - [wajs-dev.net](https://www.wajs-dev.net/blog/)
+* ZnajdzZlobek.pl - [znajdzzlobek.pl](https://znajdzzlobek.pl)
 
 ## My Github Stats
 
